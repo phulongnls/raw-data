@@ -1,0 +1,101 @@
+{ 
+   "categories":[ 
+      { 
+         "id":1,
+         "name":"Hà Nội",
+         "image":"../assets/hanoi.jpg"
+      },
+      { 
+         "id":2,
+         "name":"Đà Nẵng",
+         "image":"../assets/danang.jpg"
+      },
+      { 
+         "id":3,
+         "name":"Sài Gòn",
+         "image":"../assets/hcm.jpg"
+      }
+   ],
+   "girls":[ 
+      { 
+         "id":1,
+         "categorie_id":1,
+         "name":"Tuyết Ngọc",
+         "price":"1000k",
+         "detail":"Tiểu Cần - Trà Vinh",
+         "image":"../assets/tuyetngoc.jpg"
+      },
+      { 
+         "id":2,
+         "categorie_id":1,
+         "name":"Hương Giang",
+         "price":"1000k",
+         "detail":"Bảo Lộc - Lâm Đồng",
+         "image":"../assets/huonggiang.jpg"
+      },
+      { 
+         "id":3,
+         "categorie_id":1,
+         "name":"Đức Silva",
+         "price":"1000k",
+         "detail":"QTân Bình - TPHCM",
+         "image":"../assets/ducsilva.jpg"
+      },
+      { 
+         "id":4,
+         "categorie_id":1,
+         "name":"Phú Long",
+         "price":"100k",
+         "detail":"Ba Tri - Bến Tre",
+         "image":"../assets/phulong.jpg"
+      },
+      { 
+         "id":5,
+         "categorie_id":2,
+         "name":"Hoàng Lão Tà",
+         "price":"100k",
+         "detail":"TP Huế - Huế",
+         "image":"../assets/hoangbd.jpg"
+      },
+      { 
+         "id":6,
+         "categorie_id":2,
+         "name":"Song Van",
+         "price":"1000k",
+         "detail":"- TPHCM",
+         "image":"../assets/tuyetngoc.jpg"
+      },
+      { 
+         "id":7,
+         "categorie_id":3,
+         "name":"Huynh Duc",
+         "price":"1000k",
+         "detail":"- Hà Tĩnh",
+         "image":"../assets/tuyetngoc.jpg"
+      },
+      { 
+         "id":8,
+         "categorie_id":3,
+         "name":"Phu An",
+         "price":"1000k",
+         "detail":"- TPHCM",
+         "image":"../assets/tuyetngoc.jpg"
+      },
+      { 
+         "id":9,
+         "categorie_id":3,
+         "name":"Linh Nhi",
+         "price":"1000k",
+         "detail":"Q1 - TPHCM",
+         "image":"../assets/hotgirl.png"
+      },
+      { 
+         "id":10,
+         "categorie_id":3,
+         "name":"Maria Ozawa",
+         "price":"1000k",
+         "detail":"Q3 - TPHCM",
+         "image":"../assets/tuyetngoc.jpg"
+      }
+   ]
+}
